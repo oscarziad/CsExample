@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C4_WithMethods", "WithMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{CA622B33-6B28-4425-AD60-A19E39944D0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6_GettersAndSetters", "C6_GettersAndSetters\C6_GettersAndSetters.csproj", "{97F4B35F-9D28-4C80-8C66-A9A23D607D04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CA622B33-6B28-4425-AD60-A19E39944D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA622B33-6B28-4425-AD60-A19E39944D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA622B33-6B28-4425-AD60-A19E39944D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F4B35F-9D28-4C80-8C66-A9A23D607D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F4B35F-9D28-4C80-8C66-A9A23D607D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F4B35F-9D28-4C80-8C66-A9A23D607D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F4B35F-9D28-4C80-8C66-A9A23D607D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
