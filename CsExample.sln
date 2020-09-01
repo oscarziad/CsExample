@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6_GettersAndSetters", "C6_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{8436DD42-CF75-46AF-8392-535A98C68738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C8_Arrays", "C8_Arrays\C8_Arrays.csproj", "{EC9CE485-5D10-4787-AD11-221B360872D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8436DD42-CF75-46AF-8392-535A98C68738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8436DD42-CF75-46AF-8392-535A98C68738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8436DD42-CF75-46AF-8392-535A98C68738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9CE485-5D10-4787-AD11-221B360872D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9CE485-5D10-4787-AD11-221B360872D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9CE485-5D10-4787-AD11-221B360872D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9CE485-5D10-4787-AD11-221B360872D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
