@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C14_Interfaces_2", "C14_Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C15_Abstract_1", "C15_Abstract_1\C15_Abstract_1.csproj", "{D7333FB0-0326-4D71-BDD7-11C0A5809B8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C16_Abstract_2", "C16_Abstract_2\C16_Abstract_2.csproj", "{FC991055-4C41-482C-ABB3-057F72901E6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D7333FB0-0326-4D71-BDD7-11C0A5809B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7333FB0-0326-4D71-BDD7-11C0A5809B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7333FB0-0326-4D71-BDD7-11C0A5809B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC991055-4C41-482C-ABB3-057F72901E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC991055-4C41-482C-ABB3-057F72901E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC991055-4C41-482C-ABB3-057F72901E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC991055-4C41-482C-ABB3-057F72901E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
