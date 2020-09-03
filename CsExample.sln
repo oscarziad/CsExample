@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1_WriteLine", "C1_WriteLine\C1_WriteLine.csproj", "{00752946-A9FB-490E-B48B-9204518CBB06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C1_WriteLine", "C1_WriteLine\C1_WriteLine.csproj", "{00752946-A9FB-490E-B48B-9204518CBB06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2_ReadLine", "C2_ReadLine\C2_ReadLine.csproj", "{8B813422-9E94-451A-B849-BF61515FA9F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C2_ReadLine", "C2_ReadLine\C2_ReadLine.csproj", "{8B813422-9E94-451A-B849-BF61515FA9F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C3_WithAClass", "C3_WithAClass\C3_WithAClass.csproj", "{8B877007-E09B-47EC-9CA6-DE6419009B2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C3_WithAClass", "C3_WithAClass\C3_WithAClass.csproj", "{8B877007-E09B-47EC-9CA6-DE6419009B2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C4_WithMethods", "WithMethods\C4_WithMethods.csproj", "{2679ED52-CFBF-4504-A0D1-C260486E905F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C4_WithMethods", "WithMethods\C4_WithMethods.csproj", "{2679ED52-CFBF-4504-A0D1-C260486E905F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{CA622B33-6B28-4425-AD60-A19E39944D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{CA622B33-6B28-4425-AD60-A19E39944D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6_GettersAndSetters", "C6_GettersAndSetters\C6_GettersAndSetters.csproj", "{97F4B35F-9D28-4C80-8C66-A9A23D607D04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C6_GettersAndSetters", "C6_GettersAndSetters\C6_GettersAndSetters.csproj", "{97F4B35F-9D28-4C80-8C66-A9A23D607D04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{8436DD42-CF75-46AF-8392-535A98C68738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{8436DD42-CF75-46AF-8392-535A98C68738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C8_Arrays", "C8_Arrays\C8_Arrays.csproj", "{EC9CE485-5D10-4787-AD11-221B360872D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C8_Arrays", "C8_Arrays\C8_Arrays.csproj", "{EC9CE485-5D10-4787-AD11-221B360872D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C9_Lists", "C9_Lists\C9_Lists.csproj", "{15BCE350-D875-4EB5-BC3D-E3C31C585AFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C9_Lists", "C9_Lists\C9_Lists.csproj", "{15BCE350-D875-4EB5-BC3D-E3C31C585AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10_PracticeConsole", "C10_PracticeConsole\C10_PracticeConsole.csproj", "{90D1313B-3287-497A-A956-BF1608E11792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C10_PracticeConsole", "C10_PracticeConsole\C10_PracticeConsole.csproj", "{90D1313B-3287-497A-A956-BF1608E11792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C11_Struct", "C11_Struct\C11_Struct.csproj", "{BA0A2027-8C06-4538-9591-D7D3A9F0068B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{90D1313B-3287-497A-A956-BF1608E11792}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90D1313B-3287-497A-A956-BF1608E11792}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90D1313B-3287-497A-A956-BF1608E11792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0A2027-8C06-4538-9591-D7D3A9F0068B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0A2027-8C06-4538-9591-D7D3A9F0068B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0A2027-8C06-4538-9591-D7D3A9F0068B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0A2027-8C06-4538-9591-D7D3A9F0068B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
