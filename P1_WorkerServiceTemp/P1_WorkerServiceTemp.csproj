@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>dotnet-C17_WorkerService-9DD25D0D-53CF-4F9D-B9D0-B7147477BF1B</UserSecretsId>
+    <UserSecretsId>dotnet-P1_WorkerServiceTemp-F29E116D-F0DA-4FD0-A1FB-E77FB154812A</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0-preview.8.20407.11" />
-    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="5.0.0-preview.8.20407.3" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.8" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.8" />
     <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
     <PackageReference Include="Serilog.Sinks.File" Version="5.0.0-dev-00887" />
   </ItemGroup>
