@@ -32,9 +32,9 @@ namespace P1_WorkerServiceTemp
                 return;
             }
             finally
-{
-    Log.CloseAndFlush();
-}
+            {
+              Log.CloseAndFlush();
+            }
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

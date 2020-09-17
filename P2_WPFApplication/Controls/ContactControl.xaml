@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:P2_WPFApplication.Controls"
              mc:Ignorable="d" 
              Height="100" Width="350">
-    <Button HorizontalContentAlignment="Left" Background="{x:Null}" BorderThickness="0" >
+    <Button HorizontalContentAlignment="Left" Background="{x:Null}" BorderThickness="0">
         <Grid>
             <TextBlock x:Name="contactName" FontWeight="Bold" FontSize="14" Margin="20,0,0,0"/>
         </Grid>

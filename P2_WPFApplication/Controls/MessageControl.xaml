@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              Height="100" Width="350">
     
-    <Button x:Name="btnCurrentMessage" Click="btnCurrentMessage_Click" Background="Transparent" HorizontalContentAlignment="Left" BorderThickness="0">
+    <Button x:Name="btnCurrentMessage" Click="btnCurrentMessage_Click" Background="{x:Null}" HorizontalContentAlignment="Left" BorderThickness="0">
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="auto"/>

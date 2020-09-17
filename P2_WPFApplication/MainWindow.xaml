@@ -47,8 +47,7 @@
         <Grid x:Name="mainMenu_Grid" Grid.Column="1" Background="#FF849ECE">
 
             <StackPanel Orientation="Vertical" Margin="30">
-                <Ellipse Height="100" Width="100" Fill="White">
-                </Ellipse>
+                <Ellipse Height="100" Width="100" Fill="White"/>
                 <TextBlock HorizontalAlignment="Center"  Margin="10"  Text="Firstname LastName" Foreground="White" />
             </StackPanel>
             <StackPanel VerticalAlignment="Bottom" Margin="0,0,0,10">

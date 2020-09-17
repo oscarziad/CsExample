@@ -4,7 +4,7 @@ using System.Text;
 
 namespace P2_WPFApplication.Models
 {
-    class CurrentMessage
+    class CurrentMessageModel
     {
     }
 }

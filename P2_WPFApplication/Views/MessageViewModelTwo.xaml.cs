@@ -24,9 +24,5 @@ namespace P2_WPFApplication.Views
             InitializeComponent();
 
         }
-        private void btnCurrentMessage_Click(object sender, RoutedEventArgs e)
-        {
-            DataContext = new CurrentMessage();
-        }
     }
 }

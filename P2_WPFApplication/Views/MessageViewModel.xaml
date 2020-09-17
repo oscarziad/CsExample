@@ -1,15 +1,16 @@
-﻿<UserControl x:Class="P2_WPFApplication.Views.MessageViewModel"
+﻿<UserControl xmlns:Controls="clr-namespace:P2_WPFApplication.Controls"  x:Class="P2_WPFApplication.Views.MessageViewModel"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:P2_WPFApplication.Views"
              xmlns:models="clr-namespace:P2_WPFApplication.Models"
+             
              mc:Ignorable="d" 
              d:DesignHeight="720" d:DesignWidth="940">
 
     <UserControl.Resources>
-        <DataTemplate x:Name="btnCurrentMessage" DataType="{x:Type models:CurrentMessage}" >
+        <DataTemplate x:Name="CurrentMessageViewTemplate" DataType="{x:Type models:CurrentMessageModel}" >
             <local:MessageViewModelTwo DataContext="{Binding cv}" />
         </DataTemplate>
     </UserControl.Resources>
@@ -17,7 +18,7 @@
     <Grid Background="#E8EEF8">
         <Grid.RowDefinitions>
             <RowDefinition Height="120"/>
-            <RowDefinition Height="600"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="350"/>
